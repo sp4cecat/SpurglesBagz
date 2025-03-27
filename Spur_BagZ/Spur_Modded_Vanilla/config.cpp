@@ -36,7 +36,7 @@ class cfgVehicles
 	};
 	class KukriKnife: Inventory_Base
 	{
-		inventorySlot[]=
+		inventorySlot[]+=
 		{
 			"KukriKnife",
 			"KukriKnife2",
@@ -53,7 +53,7 @@ class cfgVehicles
 	};
 	class FangeKnife: Inventory_Base
 	{
-		inventorySlot[]=
+		inventorySlot[]+=
 		{
 			"Knife",
 			"FangeKnife",
@@ -71,7 +71,7 @@ class cfgVehicles
 	};
 	class Hatchet: Inventory_Base
 	{
-		inventorySlot[]=
+		inventorySlot[]+=
 		{
 			"MassTool",
 			"Hatchet",
@@ -90,7 +90,7 @@ class cfgVehicles
 	};
 	class OrientalMachete: Inventory_Base
 	{
-		inventorySlot[]=
+		inventorySlot[]+=
 		{
 			"OrientalMachete",
 			"OrientalMachete2",
@@ -107,7 +107,7 @@ class cfgVehicles
 	};
 	class CrudeMachete: Inventory_Base
 	{
-		inventorySlot[]=
+		inventorySlot[]+=
 		{
 			"CrudeMachete",
 			"CrudeMachete2",
